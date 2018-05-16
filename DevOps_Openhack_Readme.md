@@ -12,7 +12,7 @@
 ## 准备工作
 
 在熟悉了相关容器基础知识后，我们可以来完成挑战前的准备：
-* 我们需要使用一个现有的应用程序完成挑战，该应用程序基于visual studio 2017 和 .net core, 是一个web应用，用来进行不同API或者不同功能的测试。用来模拟微服务应用程序。程序下载地址可见如下[github地址](https://github.com/DandelionWenjing/API-Playground)
+* 我们需要使用一个现有的应用程序完成挑战，你也可以使用自己的程序完成挑战，也可以使用提供的相关应用程序；该应用程序基于visual studio 2017 和 .net core, 是一个web应用，用来进行不同API或者不同功能的测试。用来模拟微服务应用程序。程序下载地址可见如下[github地址](https://github.com/DandelionWenjing/API-Playground)
 * 我们需要在自己的开发环境中安装docker，可以使用命令`docker images`测试是否安装成功:
 [安装参考文档](https://docs.docker.com/install/)
 * 我们需要在开发环境中安装Azure-cli工具：
